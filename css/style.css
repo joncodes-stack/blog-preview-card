@@ -85,3 +85,9 @@ h1 {
     font-weight: 800;
     font-size: 16px;
 }
+
+@media (max-width: 425px) {
+    .card-blog {
+        width: 280px;
+    }
+}
